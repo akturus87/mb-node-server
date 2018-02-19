@@ -1,2 +1,8 @@
 # mb-node-server
-node based server for my personal homepage
+Let's make a homepage
+
+```
+npm install create-react-app
+npm init
+npx create-react-app mb-node-server
+```
